@@ -42,7 +42,7 @@ O objetivo principal foi praticar:
 ## 🌐 Visualização Online
 
 🔗 **Acesse o projeto:**  
-https://seuusuario.github.io/digital-birthday-card/
+
 
 ---
 
