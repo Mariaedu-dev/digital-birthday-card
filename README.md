@@ -1,10 +1,10 @@
 # 🎂 Digital Birthday Card
 
-Projeto front-end desenvolvido como prática de **HTML5** e **CSS3**, com foco em estruturação semântica, estilização moderna e organização de código.
+Projeto front-end desenvolvido como prática de **HTML5**, **CSS3** e **JavaScript**, com foco em estruturação semântica, estilização moderna, interatividade e organização de código.
 
-Este projeto foi inicialmente inspirado em um tutorial do YouTube e posteriormente adaptado como exercício prático para reforçar conceitos fundamentais de desenvolvimento web.
+Este projeto foi inicialmente inspirado em um tutorial do YouTube e posteriormente evoluído com implementações autorais e melhorias funcionais, aplicando conceitos de manipulação de DOM e interações dinâmicas.
 
-> ⚠️ **Status:** Projeto em desenvolvimento — ainda não está finalizado e continuará recebendo melhorias.
+> ✅ **Status:** Projeto finalizado
 
 ---
 
@@ -12,14 +12,9 @@ Este projeto foi inicialmente inspirado em um tutorial do YouTube e posteriormen
 
 O **Digital Birthday Card** é um cartão digital interativo criado para celebrar uma data especial de forma criativa e personalizada.
 
-O objetivo principal foi praticar:
+Ao clicar no envelope, a carta é aberta com animação e são gerados confetes dinâmicos na tela, proporcionando uma experiência visual mais envolvente.
 
-- Estruturação semântica com HTML5  
-- Organização e separação de estilos com CSS3  
-- Posicionamento de elementos  
-- Estilização visual e composição de layout  
-- Versionamento de código com Git  
-- Publicação com GitHub Pages  
+O projeto evoluiu além da proposta inicial, incorporando lógica em JavaScript para controle de interações e criação dinâmica de elementos.
 
 ---
 
@@ -27,15 +22,29 @@ O objetivo principal foi praticar:
 
 - HTML5  
 - CSS3  
+- JavaScript  
 - Git & GitHub  
-- GitHub Pages (deploy)  
+- GitHub Pages (deploy)
+
+---
+
+## ✨ Funcionalidades
+
+- Estrutura semântica organizada  
+- Animações com CSS  
+- Manipulação de DOM com JavaScript  
+- Geração dinâmica de confetes  
+- Interação via evento de clique  
+- Organização de código separando HTML, CSS e JS  
 
 ---
 
 ## 🎯 Objetivos de Aprendizado
 
 - Consolidar fundamentos de front-end  
-- Praticar boas práticas de organização de código  
+- Praticar separação de responsabilidades (HTML, CSS e JS)  
+- Trabalhar com manipulação de elementos via JavaScript  
+- Aplicar lógica de programação em projetos visuais  
 - Entender o fluxo completo: desenvolvimento → versionamento → deploy  
 - Evoluir de projetos baseados em tutorial para implementações autorais  
 
@@ -44,20 +53,23 @@ O objetivo principal foi praticar:
 ## 🌐 Visualização Online
 
 🔗 **Acesse o projeto:**  
-
-*(Link será atualizado após finalização das melhorias.)*
-
----
-
-## 📌 Próximas Melhorias
-
-- Personalização visual autoral  
-- Ajustes de responsividade  
-- Melhorias na experiência do usuário  
-- Versão futura utilizando JavaScript para interações mais dinâmicas  
-- Refatoração do código para maior organização e escalabilidade  
+(Adicione aqui o link do GitHub Pages)
 
 ---
 
-💡 *Este projeto representa parte da minha evolução prática em desenvolvimento front-end e marca meu processo de aprendizado contínuo. Ele ainda está em construção, refletindo meu processo constante de aprimoramento técnico.*
+## 📌 Evolução do Projeto
+
+Este projeto representa um marco importante na minha evolução como desenvolvedora front-end, pois marca a transição de projetos puramente visuais (HTML/CSS) para aplicações com interatividade utilizando JavaScript.
+
+Ele demonstra:
+
+- Aplicação prática de lógica de programação  
+- Manipulação dinâmica do DOM  
+- Organização e versionamento de código  
+- Publicação de projeto em ambiente real  
+
+---
+
+💡 *Projeto desenvolvido como parte do meu processo contínuo de aprendizado em desenvolvimento web, consolidando fundamentos e ampliando minhas habilidades em interatividade e lógica com JavaScript.*
+
 
