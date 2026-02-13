@@ -4,7 +4,9 @@ Projeto front-end desenvolvido como prática de **HTML5**, **CSS3** e **JavaScri
 
 Este projeto foi inicialmente inspirado em um tutorial do YouTube e posteriormente evoluído com implementações autorais e melhorias funcionais, aplicando conceitos de manipulação de DOM e interações dinâmicas.
 
-> ✅ **Status:** Projeto finalizado
+> ✅ **Status:** Projeto finalizado  
+> 📦 **Versão atual:** v1.0.0  
+> 💻 **Abordagem:** Desktop-first com suporte a dispositivos móveis
 
 ---
 
@@ -36,6 +38,7 @@ O projeto evoluiu além da proposta inicial, incorporando lógica em JavaScript 
 - Geração dinâmica de confetes  
 - Interação via evento de clique  
 - Organização de código separando HTML, CSS e JS  
+- Compatível com dispositivos móveis  
 
 ---
 
@@ -57,6 +60,17 @@ O projeto evoluiu além da proposta inicial, incorporando lógica em JavaScript 
 
 ---
 
+## 🔮 Próxima Evolução
+
+Para versões futuras, planejo:
+
+- Evoluir a responsividade para abordagem **mobile-first**
+- Implementar media queries mais refinadas
+- Melhorar a experiência do usuário em diferentes tamanhos de tela
+- Refatorar trechos de código para maior escalabilidade
+
+---
+
 ## 📌 Evolução do Projeto
 
 Este projeto representa um marco importante na minha evolução como desenvolvedora front-end, pois marca a transição de projetos puramente visuais (HTML/CSS) para aplicações com interatividade utilizando JavaScript.
@@ -71,5 +85,6 @@ Ele demonstra:
 ---
 
 💡 *Projeto desenvolvido como parte do meu processo contínuo de aprendizado em desenvolvimento web, consolidando fundamentos e ampliando minhas habilidades em interatividade e lógica com JavaScript.*
+
 
 
