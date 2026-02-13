@@ -4,6 +4,8 @@ Projeto front-end desenvolvido como prática de **HTML5** e **CSS3**, com foco e
 
 Este projeto foi inicialmente inspirado em um tutorial do YouTube e posteriormente adaptado como exercício prático para reforçar conceitos fundamentais de desenvolvimento web.
 
+> ⚠️ **Status:** Projeto em desenvolvimento — ainda não está finalizado e continuará recebendo melhorias.
+
 ---
 
 ## 🚀 Sobre o Projeto
@@ -43,6 +45,7 @@ O objetivo principal foi praticar:
 
 🔗 **Acesse o projeto:**  
 
+*(Link será atualizado após finalização das melhorias.)*
 
 ---
 
@@ -52,8 +55,9 @@ O objetivo principal foi praticar:
 - Ajustes de responsividade  
 - Melhorias na experiência do usuário  
 - Versão futura utilizando JavaScript para interações mais dinâmicas  
+- Refatoração do código para maior organização e escalabilidade  
 
 ---
 
-💡 *Este projeto representa parte da minha evolução prática em desenvolvimento front-end e marca meu processo de aprendizado contínuo.*
+💡 *Este projeto representa parte da minha evolução prática em desenvolvimento front-end e marca meu processo de aprendizado contínuo. Ele ainda está em construção, refletindo meu processo constante de aprimoramento técnico.*
 
