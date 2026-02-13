@@ -56,7 +56,7 @@ O projeto evoluiu além da proposta inicial, incorporando lógica em JavaScript 
 ## 🌐 Visualização Online
 
 🔗 **Acesse o projeto:**  
-([Adicione aqui o link do GitHub Pages](https://mariaedu-dev.github.io/digital-birthday-card/))
+([Digital-birthday-card](https://mariaedu-dev.github.io/digital-birthday-card/))
 
 ---
 
